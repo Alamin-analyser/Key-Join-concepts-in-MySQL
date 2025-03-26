@@ -1,6 +1,6 @@
 # Key concepts of databases in MySQL. 
 
-### primary key
+### Primary key
 
 A primary key is a field (or a combination of fields) in a database table that uniquely identifies each record in that table.
 
