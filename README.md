@@ -53,6 +53,7 @@ In a university system, each student can enrol in multiple courses, and each cou
 A self join is a type of join where a table is joined with itself. It's useful when you need to compare rows within the same table. This is typically done by treating the same table as two different "tables" by using aliases for each instance of the table. A self join is often used to find relationships within the same set of data.
 
 **Example:**
+
 Consider an "Employees" table that contains information about employees and their managers. The table might have the following columns:
 
 •	EmployeeID
